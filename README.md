@@ -1,14 +1,41 @@
-# Mi Portafolio Personal
+# 🧑‍💻 Portafolio Personal – Juan Guillermo Torres Zamora
 
-Portafolio personal como desarrollador full stack.
-Hecho con HTML, CSS, JavaScript y animaciones personalizadas. Incluye modo oscuro, scroll reveal, línea de tiempo profesional y formulario de contacto funcional con EmailJS.
+Este es mi portafolio personal como desarrollador full stack. Aquí muestro quién soy, mis habilidades técnicas, proyectos destacados y una forma de contactarme directamente.
 
-## 📁 Estructura
-- `index.html`: estructura principal
-- `style.css`: estilos del sitio
-- `script.js`: interactividad básica
-- `assets/`: imágenes e íconos
+🌐 Puedes verlo en línea aquí:  
+👉 [https://guillermotoza.github.io/PortafolioCV/](https://guillermotoza.github.io/PortafolioCV/)
 
-## 🚀 Cómo usar
-1. Abre la carpeta con Visual Studio Code.
-2. Haz doble clic en `index.html` para verlo en el navegador.
+---
+
+## 🚀 Tecnologías utilizadas
+
+- HTML5
+- CSS3 (responsive y dark mode)
+- JavaScript (interacciones y lógica)
+- EmailJS (envío de mensajes desde el formulario)
+- Font Awesome (íconos)
+- ScrollReveal (animaciones de scroll)
+
+---
+
+## ✨ Características destacadas
+
+- 🎨 **Modo claro/oscuro** con cambio dinámico
+- 💬 **Formulario de contacto funcional** con validación
+- 🧭 **Navegación responsiva** para escritorio y móvil
+- 📚 **Línea de tiempo interactiva** para experiencia y formación
+- ⚙️ Animaciones suaves con ScrollReveal
+
+---
+
+
+## 📬 Contacto
+
+Puedes contactarme directamente desde el formulario o vía:
+
+- GitHub: [@guillermotoza](https://github.com/guillermotoza)
+- LinkedIn: [https://www.linkedin.com/in/guillermotoza/](https://www.linkedin.com/in/guillermotoza/)
+- Email: guillermotoza@gmail.com
+
+---
+
